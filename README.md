@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Weather-App-ReactJS](https://github.com/25Harry/Weather-App-ReactJS)
 
-- 🌱 I’m currently learning **about A* Algorithm**
+- 🌱 I’m currently learning **about A search Algorithm**
 
 - 🔍 Currently looking for **Internship/Job Opportunities**
 
