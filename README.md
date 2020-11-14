@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=25harry" alt="25harry" /></a> </p>
 
-- 🔭 I’m currently working on [Weather-App-ReactJS](https://github.com/25Harry/Weather-App-ReactJS)
+- 🔭 I’m currently working on [Travel Blog](https://github.com/25Harry/Weather-App-ReactJS)
 
 - 🌱 I’m currently learning **about A search Algorithm**
 
