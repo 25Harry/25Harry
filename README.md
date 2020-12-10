@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshit.harshit25@gmail.com**
 
-- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1iqOzHcG7H6Pktliv3rHwWD7kXw-e0R0T/view?usp=sharing](https://drive.google.com/file/d/1iqOzHcG7H6Pktliv3rHwWD7kXw-e0R0T/view?usp=sharing)
+- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1pGjvkRTF_bJAJG1iXG9uR9hlSzKN20Vv/view?usp=sharing](https://drive.google.com/file/d/1iqOzHcG7H6Pktliv3rHwWD7kXw-e0R0T/view?usp=sharing)
 
 - ⚡ Fun fact **I can initiate great conversations.**
 
