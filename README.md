@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=25harry" alt="25harry" /></a> </p>
 
-- 🔭 I’m currently working as a **Software Development Intern at Optym**
+- 🔭 I’m currently working as a **Software Development Intern at Optym**.
 
-- 🌱 I’m currently learning **about web services and dapper**
+- 🌱 I’m currently learning **about web services and dapper**.
 
-- 🔍 Open for **Job Opportunities**
+- 🔍 Open for **Job Opportunities**.
 
-- 💬 Ask me about **C++ and React**
+- 💬 Ask me about **C++ and React**.
 
-- 📫 How to reach me **harshit.harshit25@gmail.com**
+- 📫 How to reach me **harshit.harshit25@gmail.com**.
 
 - 📄 Know about my experiences: **[Resume Link](https://drive.google.com/file/d/1Yi0d-EPMY61KjCjEiIZ0peOxS64m1UvT/view?usp=sharing)**
 
