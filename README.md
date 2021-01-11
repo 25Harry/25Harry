@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=25harry" alt="25harry" /></a> </p>
 
-- 🔭 I’m currently working on [Money Transaction Site](https://github.com/25Harry/MoneyTransactionSite-ReactJS-)
+- 🔭 I’m currently working as a **Software Development Intern at Optym**
 
-- 🌱 I’m currently learning **about A search Algorithm**
+- 🌱 I’m currently learning **about web services and dapper**
 
-- 🔍 Currently looking for **Internship/Job Opportunities**
+- 🔍 Open for **Job Opportunities**
 
-- 💬 Ask me about **React and Unreal**
+- 💬 Ask me about **C++ and React**
 
 - 📫 How to reach me **harshit.harshit25@gmail.com**
 
-- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1pGjvkRTF_bJAJG1iXG9uR9hlSzKN20Vv/view?usp=sharing](https://drive.google.com/file/d/1pGjvkRTF_bJAJG1iXG9uR9hlSzKN20Vv/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Yi0d-EPMY61KjCjEiIZ0peOxS64m1UvT/view?usp=sharing)
 
 - ⚡ Fun fact **I can initiate great conversations.**
 
