@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++ and React**.
 
-- 📫 How to reach me **harshit.harshit25@gmail.com**.
+- 📫 How to reach me **harshit.harshit25@gmail.com**
 
 - 📄 Know about my experiences: **[Resume Link](https://drive.google.com/file/d/1Yi0d-EPMY61KjCjEiIZ0peOxS64m1UvT/view?usp=sharing)**
 
