@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=25harry" alt="25harry" /></a> </p>
 
-- 🔭 I’m currently working as a **Software Development Intern at Optym**.
+- 🔭 I’m currently working as a **Software Engineer at PolicyBazaar**.
 
 - 🌱 I’m currently learning **about web services and dapper**.
 
