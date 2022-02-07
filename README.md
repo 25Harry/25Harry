@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshit07247228" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harshit07247228" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-singh-273646150" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-singh-273646150" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshit-25h/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-singh-273646150" height="30" width="40" /></a>
 <a href="https://instagram.com/harshit__25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit__25" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshitsingh15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="harshitsingh15" height="30" width="40" /></a>
 </p>
