@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">An explorer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=25harry" alt="25harry" /></a> </p>
 
 - 🔭 I’m currently working as a **Software Engineer at PolicyBazaar**.
 
